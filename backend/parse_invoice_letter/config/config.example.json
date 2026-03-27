@@ -1,0 +1,28 @@
+{
+  "BASE_DIR": "./parse_invoice_letter/data/",
+  "USER_NICKNAME": "Danpi",
+  "process_bank": {
+    "FILE_PATH": "bank.example.csv"
+  },
+  "read_invoice": {
+    "FILE_PATH": "invoices/examplebank/example_invoices.csv",
+    "BANK_NAME": "MUSTER BANK"
+  },
+  "find_unmatched": {
+    "INVOICE_DESCRIPTIONS_SUBDIR": "invoice_descriptions/test/",
+    "TRANSFER_PURPOSE_MAP_PATH": "./parse_invoice_letter/config/transfer_purpose_map.example.json",
+    "OUTPUT_PATH": "./parse_invoice_letter/data/unmatched_descriptions.example.csv"
+  },
+  "process_purpose": {
+    "INIT_PURPOSE": true,
+    "TRANSFER_PURPOSE_MAPPING_PATH": "./parse_invoice_letter/config/transfer_purpose_map.example.json",
+    "DOWNLOAD_PURPOSE": false,
+    "SAVE_TRANSFER_PURPOSE_MAPPING_PATH": "./parse_invoice_letter/config/download_transfer_purpose_map.example.json"
+  },
+  "extract_descriptions": {
+    "INVOICE_FOLDER_PATHS": [
+      { "sub_path": "examplebank/", "bank_name": "MUSTER BANK" }
+    ],
+    "OUTPUT_SUBDIR": "invoice_descriptions/test/"
+  }
+}

@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env*
+active_env.py
+staticfiles/
+media/
+*.egg-info/

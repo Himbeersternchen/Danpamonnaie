@@ -1,0 +1,37 @@
+name of acc;iban number;bic info;name of bank;booking date;payment participant;type of payment;intended use;price;currency;Balance after transaction
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;31.07.2025;Mustermann;Überweisung;Anteil Geschenk;15,00;EUR;870,13
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;31.07.2025;Asteroid Drogerie;Basislastschrift;Sonnencreme;-8,95;EUR;855,13
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;30.07.2025;Kometen Café;Basislastschrift;Espresso to go;-3,80;EUR;864,08
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;29.07.2025;MUSTER BANK Abschluss;Basislastschrift;Kontoführungsgebühren Q3;-3,90;EUR;867,88
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;28.07.2025;Mondlicht Apotheke;Basislastschrift;Vitamine;-12,30;EUR;871,78
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;27.07.2025;Milchstraße Supermarkt;Basislastschrift;Lebensmittel;-38,76;EUR;884,08
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;26.07.2025;Komet Pizzeria;Basislastschrift;Pizza Lieferung;-18,50;EUR;922,84
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;25.07.2025;Galaxie Versicherung AG;Überweisung;Beitragsguthaben Erstattung;42,30;EUR;941,34
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;25.07.2025;Sonnenschein Bäckerei;Basislastschrift;Brot und Brötchen;-5,90;EUR;899,04
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;24.07.2025;Saturn Sternplaza;Basislastschrift;Kopfhörer;-49,99;EUR;904,94
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;23.07.2025;Sternpark Tankstelle;Basislastschrift;Tankfüllung;-62,15;EUR;954,93
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;22.07.2025;Meteor Buchhandlung;Basislastschrift;Fachbuch Programmierung;-34,90;EUR;1.017,08
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;21.07.2025;;Basislastschrift;Weltmeister-Currywurst     sternplatform;-9,00;EUR;1.051,98
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;21.07.2025;Milchstraße Supermarkt;Basislastschrift;Großeinkauf Wochenende;-92,34;EUR;1.060,98
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;20.07.2025;Game abc;Basislastschrift;Online Spielkauf;-29,99;EUR;1.153,32
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;19.07.2025;Yummi;Basislastschrift;Mittagessen asiatisch;-16,80;EUR;1.183,31
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;18.07.2025;Nova Parkhaus;Basislastschrift;Parkgebühr Innenstadt;-4,50;EUR;1.200,11
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;17.07.2025;Asteroid Drogerie;Basislastschrift;Hygieneartikel;-22,45;EUR;1.204,61
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;16.07.2025;Kometen Café;Basislastschrift;Kaffee und Kuchen;-11,20;EUR;1.227,06
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;15.07.2025;Pulsar Vodafone;Basislastschrift;Mobilfunk Juli;-19,99;EUR;1.238,26
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;15.07.2025;Milchstraße Supermarkt;Basislastschrift;Lebensmittel;-43,67;EUR;1.258,25
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;14.07.2025;Sonnenschein Bäckerei;Basislastschrift;Frühstück;-6,80;EUR;1.301,92
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;13.07.2025;Mustermann;Überweisung;Geld zurückgeben;25,00;EUR;1.308,72
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;12.07.2025;Orbit Elektronik;Basislastschrift;USB-Kabel und Adapter;-19,99;EUR;1.283,72
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;11.07.2025;Galaxie Versicherung AG;Basislastschrift;KFZ-Versicherung Juli;-85,00;EUR;1.303,71
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;10.07.2025;Komet Pizzeria;Basislastschrift;Abendessen;-24,50;EUR;1.388,71
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;09.07.2025;Mondlicht Apotheke;Basislastschrift;Medikamente;-15,60;EUR;1.413,21
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;08.07.2025;Milchstraße Supermarkt;Basislastschrift;Wocheneinkauf;-54,18;EUR;1.428,81
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;07.07.2025;Planetarium Fitness;Basislastschrift;Monatsbeitrag Fitness;-29,90;EUR;1.482,99
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;05.07.2025;Nebula Streaming GmbH;Basislastschrift;Monatsabo Streaming;-12,99;EUR;1.512,89
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;05.07.2025;Universum Fashion Centro;Basislastschrift;Sommerbekleidung;-89,99;EUR;1.525,88
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;04.07.2025;Sternpark Tankstelle;Basislastschrift;Tankfüllung;-58,40;EUR;1.615,87
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;03.07.2025;Milchstraße Supermarkt;Basislastschrift;Lebensmittel Einkauf;-67,23;EUR;1.674,27
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;02.07.2025;Sonnenschein Bäckerei;Basislastschrift;Einkauf Bäckerei;-8,50;EUR;1.741,50
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;01.07.2025;Vermieter Schmidt;Dauerauftrag;Miete Juli 2025;-750,00;EUR;1.750,00
+Giro abc;DE12345678901234567890;RGBAXXXXXXX;MUSTER BANK;01.07.2025;Musterfrau GmbH;Gehalt/Rente;Gehalt Juli 2025;2500,00;EUR;2.500,00

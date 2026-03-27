@@ -1,0 +1,25 @@
+{
+  // Enable format on save
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "python.analysis.autoImportCompletions": true,
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/venv/bin/python",
+
+  // Set Prettier as the default formatter
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // Use Black for Python formatting
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "files.associations": {
+    "*.txt": "lua"
+  },
+  "python.analysis.extraPaths": ["./backend"],
+  "css.lint.unknownAtRules": "ignore"
+}

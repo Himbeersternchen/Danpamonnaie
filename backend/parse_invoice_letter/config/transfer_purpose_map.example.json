@@ -1,0 +1,27 @@
+{
+  "expenditures": {
+    "fashion": "Fashion Centro",
+    "supermarket": "Milchstraße",
+    "hobby": "Game",
+    "restaurant": "Weltmeister-Currywurst|Komet Pizzeria|Yummi",
+    "cafe": "Kometen Caf",
+    "bakery": "Sonnenschein Bäckerei",
+    "refuel": "Sternpark Tankstelle",
+    "pharmacy": "Mondlicht Apotheke",
+    "insurance": "Galaxie Versicherung",
+    "streaming": "Nebula Streaming",
+    "fitness": "Planetarium Fitness",
+    "electronics": "Orbit Elektronik|Saturn Sternplaza",
+    "drugstore": "Asteroid Drogerie",
+    "book": "Meteor Buchhandlung",
+    "parking": "Nova Parkhaus",
+    "communication": "Pulsar Vodafone",
+    "rent": "Vermieter Schmidt",
+    "bank": "MUSTER BANK Abschluss"
+  },
+  "incomes": {
+    "salary": "Musterfrau GmbH",
+    "friend_give": "mustermann",
+    "insurance": "Galaxie Versicherung"
+  }
+}
