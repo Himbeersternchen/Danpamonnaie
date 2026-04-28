@@ -5,6 +5,7 @@ import { defineConfig } from "vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  base: process.env.GITHUB_PAGES === "true" ? "/Danpamonnaie/" : "/",
   build: {
     sourcemap: true,
     minify: "terser",
