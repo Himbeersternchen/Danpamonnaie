@@ -18,6 +18,7 @@ plan_*
 .env.dev
 .env.prod
 .env.docker
+.env.docker.test
 active_env.py
 **/staticfiles
 
